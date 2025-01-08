@@ -1,1 +1,0 @@
-# car_dealer_database_design
